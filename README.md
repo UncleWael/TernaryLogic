@@ -41,13 +41,9 @@ Clone or download this repository and add the TernaryLogic.pas file to your Delp
 git clone https://github.com/UncleWael/TernaryLogic.git
 ```
 
-## 📄 License
-This project is licensed under the [MIT License](LICENSE).
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 
-
-## 🛠 How to Contribute
+## 🛠 Contribute
 Contributions, issues, and feature requests are welcome! Feel free to open an issue or submit a pull request.
 
 ### Reporting Bugs
@@ -65,3 +61,8 @@ Contributions, issues, and feature requests are welcome! Feel free to open an is
 2. Create a feature branch:  
    ```bash
    git checkout -b feature/my-feature
+
+
+## 📄 License
+This project is licensed under the [MIT License](LICENSE).
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
