@@ -34,14 +34,14 @@ It defines the necessary logical types, reasoning operators, and utility functio
 	end;
 ```
 
-## Installation
+## 📦 Installation
 Clone or download this repository and add the TernaryLogic.pas file to your Delphi project’s search path.
 
 ```bash
 git clone https://github.com/UncleWael/TernaryLogic.git
+```
 
-
-## 🚀 License
+## 📄 License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
