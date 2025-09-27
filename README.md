@@ -47,3 +47,21 @@ This project is licensed under the [MIT License](LICENSE).
 
 
 
+## 🛠 How to Contribute
+Contributions, issues, and feature requests are welcome! Feel free to open an issue or submit a pull request.
+
+### Reporting Bugs
+- Open an [issue](../../issues) and use a clear, descriptive title.  
+- Include steps to reproduce, expected behavior, and actual behavior.  
+- Add Delphi version and operating system info if relevant.  
+
+### Suggesting Features
+- Open an [issue](../../issues) with the label `enhancement`.  
+- Clearly describe the problem your feature would solve.  
+- If possible, provide examples or pseudo-code.  
+
+### Submitting Code Changes
+1. Fork the repository.  
+2. Create a feature branch:  
+   ```bash
+   git checkout -b feature/my-feature
