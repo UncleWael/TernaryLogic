@@ -1,6 +1,6 @@
 # Ternary Logic for Delphi
 
-Ternary Logic for Delphi library provides an implementation of  **the three-valued logic** for the Delphi Object Pascal language.  
+**Ternary Logic for Delphi** library provides an implementation of  **the three-valued logic** for the Delphi Object Pascal language.  
 It defines the necessary logical types, reasoning operators, and utility functions that extend the built-in Boolean logic into a three-state domain.
 
 ## ✨ Features
