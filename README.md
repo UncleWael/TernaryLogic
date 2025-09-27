@@ -61,7 +61,7 @@ Contributions, issues, and feature requests are welcome! Feel free to open an is
 2. Create a feature branch:  
    ```bash
    git checkout -b feature/my-feature
-
+```
 
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE).
