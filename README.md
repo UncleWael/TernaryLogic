@@ -42,8 +42,8 @@ git clone https://github.com/UncleWael/TernaryLogic.git
 ```
 
 ## 📄 License
-
+This project is licensed under the [MIT License](LICENSE).
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-This project is licensed under the [MIT License](LICENSE).
+
 
