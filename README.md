@@ -12,6 +12,7 @@ It defines the necessary logical types, reasoning operators, and utility functio
 ## 🛠 Requirements
 - Delphi **10.4 Sydney** or later.
 - No external dependencies.
+- To comply with Delphi codeing standards, source files are auto-formated using the format-compact profile.
 
 ## 🚀 Getting Started
 

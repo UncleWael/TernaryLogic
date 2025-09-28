@@ -1,0 +1,94 @@
+# =========================
+# Delphi / RAD Studio
+# =========================
+*.dcu
+*.dcp
+*.dcpil
+*.dpu
+*.bpl
+*.dcpidl
+
+# Build artifacts
+*.exe
+*.dll
+*.ocx
+*.rsm
+*.tds
+*.drc
+
+# Delphi generated files
+*.identcache
+*.local
+*.dsk
+*.~*
+*.otares
+*.stat
+*.tvsconfig
+*.tvslog
+
+# Backup & temp files
+__history/
+__recovery/
+*.bak
+*.tmp
+*.log
+
+# Build output folders
+/Win32/Debug/
+/Win32/Release/
+/Win64/Debug/
+/Win64/Release/
+/Linux64/Debug/
+/Linux64/Release/
+
+# =========================
+# IDE / Editor configs
+# =========================
+# Visual Studio Code
+.vscode/
+
+# JetBrains IDEs (Rider, PhpStorm, etc.)
+.idea/
+
+# Visual Studio (if someone opens Delphi project there)
+*.user
+*.suo
+*.vcxproj.user
+*.filters
+
+# =========================
+# Environment / OS files
+# =========================
+*.env
+*.env.local
+*.env.*.local
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Linux
+*~
+
+# =========================
+# GitHub / CI
+# =========================
+# Ignore dependency caches
+node_modules/
+vendor/
+dist/
+build/
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
